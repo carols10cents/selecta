@@ -1,0 +1,8 @@
+[package]
+name = "selecta"
+version = "0.0.1-shipoopi"
+authors = ["Carol (Nichols || Goulding) <carol.nichols@gmail.com>"]
+description = "A fuzzy text selector for files and anything else you need to select."
+repository = "https://github.com/carols10cents/selecta"
+readme = "README.md"
+license = "MIT"
