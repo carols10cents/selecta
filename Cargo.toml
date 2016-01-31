@@ -1,8 +1,8 @@
 [package]
 name = "selecta"
-version = "0.0.1-shipoopi"
+version = "0.0.2-nopenopenope"
 authors = ["Carol (Nichols || Goulding) <carol.nichols@gmail.com>"]
-description = "A fuzzy text selector for files and anything else you need to select."
+description = "This is not Selecta in Rust. Please see https://github.com/felipesere/icepick"
 repository = "https://github.com/carols10cents/selecta"
 readme = "README.md"
 license = "MIT"
